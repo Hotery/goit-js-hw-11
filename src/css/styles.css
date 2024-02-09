@@ -177,3 +177,10 @@ button:hover {
   letter-spacing: 0.04em;
   color: #2e2f42;
 }
+.gallery-item {
+  list-style: none;
+}
+.gallery-image {
+  width: 360px;
+  height: 200px;
+}
